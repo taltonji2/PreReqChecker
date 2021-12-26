@@ -43,7 +43,10 @@ Implemented using a private class Paths and recusive depth for search method to 
 <p>
   <img src="docs/val.jpg" width = "200" height = "100" >
   <img src="docs/val2.jpg" width = "200" height = "100" >
+   <img src="docs/val3.jpg" width = "200" height = "100" >
+  <img src="docs/val4.jpg" width = "200" height = "100" >
 </p>
+
 
 
 
