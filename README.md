@@ -54,7 +54,7 @@ The purpose of this class is to use the adjacency list and an eligible input fil
 
 Takes three arguments:
 - An adjlist input file
-- A eligible input file
+- A eligible input file (number of courses took, taken course ID's)
 - An output file
 
 returns the course ID (name) of the courses eligible to take. 
@@ -70,7 +70,7 @@ The purpose of this class is, given a list of completed courses, find the course
 
 Takes three arguments:
 - An adjlist input file
-- A needtotake input file
+- A needtotake input file (target course ID, number of courses took, taken course ID's)
 - An output file
 
 returns the course ID of the courses required to reach target. 
@@ -86,7 +86,7 @@ The purpose of this class is, given a list of completed courses and a target cou
 
 Takes three arguments:
 - An adjlist input file
-- A scheduleplan input file (target, number of courses taken, taken course ID's)
+- A scheduleplan input file (target course ID, number of courses took, taken course ID's)
 - An output file 
 
 returns the number of semesters followed by a line itemization of course ID(s) per semester.
