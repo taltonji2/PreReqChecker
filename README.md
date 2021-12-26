@@ -1,5 +1,5 @@
 # PreReqChecker
-A Java project to create a directed graph of the undergraduate Rutgers CS department.
+A Java project to create a directed graph of the undergraduate Rutgers CS department course directory.
 
 ## Summary
 PreReqChecker is comprised of five Java Classes each tasked with responding to specific problems related to navigating the CS course structure. 
@@ -11,6 +11,8 @@ PreReqChecker is comprised of five Java Classes each tasked with responding to s
 
 
 ## AdjList
+The purpose of this class is to create an Adjacency List and return the dependencies of the course structure. 
+
 Takes two arguments:
 - An input file detailing the number of courses related to the department directory
 - An output file
