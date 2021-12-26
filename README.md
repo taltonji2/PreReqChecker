@@ -65,6 +65,14 @@ returns the course ID (name) of the courses eligible to take.
   <img src="docs/eligible2.jpg" width = "200" height = "200" >
 </p>
 
+## NeedToTake
+The purpose of this class is given a list of completed courses, find the courses required to reach a target course. 
+
+Takes three arguments:
+- An adjlist input file
+- A NeedToTake input file
+- An output file
+
 
 ## How to Run
 
