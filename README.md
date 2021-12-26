@@ -35,7 +35,9 @@ Takes two arguments:
 - An input file detailing the number of courses related to the department directory
 - An output file
 
-Returning YES or NO. 
+returning YES or NO. 
+
+Implemented using a private class Paths and recusive depth for search method to determine connectivity within the adjacency list. 
 
 ## How to Run
 
