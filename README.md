@@ -42,9 +42,9 @@ Implemented using a private class Paths and recusive depth for search method to 
 
 <p>
   <img src="docs/val.jpg" width = "200" height = "100" >
-  <img src="docs/val2.jpg" width = "200" height = "100" >
+  <img src="docs/val2.jpg" width = "100" height = "100" >
    <img src="docs/val3.jpg" width = "200" height = "100" >
-  <img src="docs/val4.jpg" width = "200" height = "100" >
+  <img src="docs/val4.jpg" width = "100" height = "100" >
 </p>
 
 
@@ -61,8 +61,8 @@ returns the course ID (name) of the courses eligible to take.
 <br>
 
 <p>
-  <img src="docs/eligible.jpg" width = "100" height = "200" >
-  <img src="docs/eligible2.jpg" width = "100" height = "200" >
+  <img src="docs/eligible.jpg" width = "200" height = "200" >
+  <img src="docs/eligible2.jpg" width = "200" height = "200" >
 </p>
 
 
