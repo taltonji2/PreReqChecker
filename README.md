@@ -49,7 +49,13 @@ Implemented using a private class Paths and recusive depth for search method to 
 
 
 ## Eligible
+The purpose of this class is to use the adjacency list and an eligible input file to find what courses are eligible to take.
+<br> The eligible input file is a list of completed courses, and it is assumed that they have been taken and all direct and indirect prerequisites have been taken.
 
+Takes three arguments:
+- An adjlist input file
+- A eligible input file
+- An output file
 
 
 ## How to Run
