@@ -16,7 +16,7 @@ Takes two arguments:
 - An output file
 
 Implemented the graph using an arraylist of type Course.
-/n Course stores a string name, and an arraylist of immediate prerequisites. 
+<ls> Course stores a string name, and an arraylist of immediate prerequisites. 
 
 
 ## How to Run
