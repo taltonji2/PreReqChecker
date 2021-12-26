@@ -15,7 +15,7 @@ The purpose of this class is to create an Adjacency List and return the dependen
 
 Takes two arguments:
 - An input file detailing the number of courses related to the department directory 
- formatted: (Number of courses, Course ID's, Number of Edges, Course ID followed by a prerequisite ID)
+ <br> (Number of courses, Course ID's, Number of Edges, Course ID followed by a prerequisite ID)
 - An output file
 
 returns the full adjacency list structure. 
