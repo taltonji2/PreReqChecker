@@ -17,6 +17,8 @@ Takes two arguments:
 - An input file detailing the number of courses related to the department directory
 - An output file
 
+returns the full adjacency list structure. 
+
 Implemented the graph using an arraylist of type Course.
 <br> Course stores a string name, and an arraylist of immediate prerequisites. 
 <br>
@@ -28,6 +30,12 @@ Implemented the graph using an arraylist of type Course.
 
 ## ValidPrereq
 The purpose of this class is to use the adjacency list to determine whether a course would be possible to take given a hypothetical prerequisite. 
+
+Takes two arguments:
+- An input file detailing the number of courses related to the department directory
+- An output file
+
+Returning YES or NO. 
 
 ## How to Run
 
