@@ -57,6 +57,8 @@ Takes three arguments:
 - A eligible input file
 - An output file
 
+returns the course ID (name) of the courses eligible to take. 
+
 
 ## How to Run
 
