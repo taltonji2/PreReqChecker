@@ -79,6 +79,7 @@ returns the course ID of the courses required to reach target.
   <img src="docs/needtotake.jpg" width = "200" height = "200" >
   <img src="docs/needtotake3.jpg" width = "200" height = "200" >
 </p>
+
 ## How to Run
 
 All java files in `src` must be compiled.
