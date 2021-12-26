@@ -66,7 +66,7 @@ returns the course ID (name) of the courses eligible to take.
 </p>
 
 ## NeedToTake
-The purpose of this class is given a list of completed courses, find the courses required to reach a target course. 
+The purpose of this class is, given a list of completed courses, find the courses required to reach a target course. 
 
 Takes three arguments:
 - An adjlist input file
@@ -79,6 +79,11 @@ returns the course ID of the courses required to reach target.
   <img src="docs/needtotake.jpg" width = "200" height = "200" >
   <img src="docs/needtotake3.jpg" width = "200" height = "200" >
 </p>
+
+## SchedulePlan
+The purpose of this class is, given a list of completed courses and a target course, find the minimum number of semesters 
+<br> and the courses per semester required to reach the target.
+
 
 ## How to Run
 
