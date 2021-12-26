@@ -18,7 +18,7 @@ Takes two arguments:
  <br> (Number of courses, Course ID's, Number of Edges, Course ID followed by a prerequisite ID)
 - An output file
 
-returns the full adjacency list structure. 
+returns the full adjacency list structure. Course ID followed by all of its immediate prerequisites
 
 Implemented the graph using an arraylist of type Course.
 <br> Course stores a string name, and an arraylist of immediate prerequisites. 
