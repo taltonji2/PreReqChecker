@@ -84,6 +84,17 @@ returns the course ID of the courses required to reach target.
 The purpose of this class is, given a list of completed courses and a target course, find the minimum number of semesters 
 <br> and the courses per semester required to reach the target.
 
+Takes three arguments:
+- An adjlist input file
+- A scheduleplan input file
+- An output file
+
+returns the number of semesters followed by a line itemization of course ID(s) per semester.
+
+<p>
+  <img src="docs/scheduleplan.jpg" width = "200" height = "200" >
+  <img src="docs/scheduleplan2.jpg" width = "200" height = "200" >
+</p>
 
 ## How to Run
 
