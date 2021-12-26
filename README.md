@@ -9,7 +9,6 @@ PreReqChecker is comprised of five Java Classes each tasked with responding to s
 ## How to Run
 
 All java files in `src` must be compiled.
-Then simply run Percolation.java
 
 ## Folder Structure
 
