@@ -18,7 +18,8 @@ Takes two arguments:
 Implemented the graph using an arraylist of type Course.
 <br> Course stores a string name, and an arraylist of immediate prerequisites. 
 <p>
-  <img src="docs/adjlist.jpg" width = "150" height = "800"
+  <img src="docs/adjlist.jpg" width = "150" height = "800">
+  <img src="docs/adjlist2.jpg" width = "150" height = "800">
 </p>
 
 ## How to Run
