@@ -25,6 +25,10 @@ Implemented the graph using an arraylist of type Course.
   <img src="docs/adjlist2.jpg" width = "200" height = "500" >
 </p>
 
+
+## ValidPrereq
+The purpose of this class is to use the adjacency list to determine whether a course would be possible to take given a hypothetical prerequisite. 
+
 ## How to Run
 
 All java files in `src` must be compiled.
