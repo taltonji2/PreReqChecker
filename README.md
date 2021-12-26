@@ -14,11 +14,3 @@ PreReqChecker is comprised of five Java Classes each tasked with responding to s
 
 All java files in `src` must be compiled.
 
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Compiled output files will be generated in the `bin` folder by default.
