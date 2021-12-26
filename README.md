@@ -73,6 +73,8 @@ Takes three arguments:
 - A needtotake input file
 - An output file
 
+returns the course ID of the courses required to reach target. 
+<br>
 
 ## How to Run
 
