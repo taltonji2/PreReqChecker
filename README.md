@@ -87,7 +87,7 @@ The purpose of this class is, given a list of completed courses and a target cou
 Takes three arguments:
 - An adjlist input file
 - A scheduleplan input file
-- An output file
+- An output file (target, number of courses taken, taken course ID's)
 
 returns the number of semesters followed by a line itemization of course ID(s) per semester.
 
