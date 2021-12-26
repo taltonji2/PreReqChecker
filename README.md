@@ -11,7 +11,12 @@ PreReqChecker is comprised of five Java Classes each tasked with responding to s
 
 
 ## AdjList
+Takes two arguments:
+- An input file detailing the number of courses related to the department directory
+- An output file
 
+Implemented the graph using an arraylist of type Course.
+Course stores a string of the course name, and an arraylist of its immediate prerequisites. 
 
 
 ## How to Run
