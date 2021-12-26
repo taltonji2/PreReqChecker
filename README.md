@@ -70,7 +70,7 @@ The purpose of this class is given a list of completed courses, find the courses
 
 Takes three arguments:
 - An adjlist input file
-- A NeedToTake input file
+- A needtotake input file
 - An output file
 
 
