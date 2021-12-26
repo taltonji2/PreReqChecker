@@ -61,8 +61,8 @@ returns the course ID (name) of the courses eligible to take.
 <br>
 
 <p>
-  <img src="docs/eligible.jpg" width = "200" height = "300" >
-  <img src="docs/eligible2.jpg" width = "200" height = "400" >
+  <img src="docs/eligible.jpg" width = "100" height = "200" >
+  <img src="docs/eligible2.jpg" width = "100" height = "200" >
 </p>
 
 
