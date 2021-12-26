@@ -14,7 +14,8 @@ PreReqChecker is comprised of five Java Classes each tasked with responding to s
 The purpose of this class is to create an Adjacency List and return the dependencies of the course structure. 
 
 Takes two arguments:
-- An input file detailing the number of courses related to the department directory
+- An input file detailing the number of courses related to the department directory 
+ formatted: (Number of courses, Course ID's, Number of Edges, Course ID followed by a prerequisite ID)
 - An output file
 
 returns the full adjacency list structure. 
@@ -33,7 +34,7 @@ The purpose of this class is to use the adjacency list to determine whether a co
 
 Takes three arguments:
 - An adjlist input file
-- A validprereq input file
+- A validprereq input file (Course ID of parent course, Hypothetical prerequisite course ID)
 - An output file
 
 returning YES or NO. 
